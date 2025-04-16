@@ -1,0 +1,14 @@
+ru\alishev\springcourse\util\PersonValidator.class
+ru\alishev\springcourse\repositories\BooksRepository.class
+ru\alishev\springcourse\controllers\PeopleController.class
+ru\alishev\springcourse\dao\PersonDAO.class
+ru\alishev\springcourse\services\PeopleService.class
+ru\alishev\springcourse\controllers\MainController.class
+ru\alishev\springcourse\models\Book.class
+ru\alishev\springcourse\services\BooksService.class
+ru\alishev\springcourse\dao\BookDAO.class
+ru\alishev\springcourse\repositories\PeopleRepository.class
+ru\alishev\springcourse\controllers\BookController.class
+ru\alishev\springcourse\config\MySpringMvcDispatcherSerlvetIntitializer.class
+ru\alishev\springcourse\models\Person.class
+ru\alishev\springcourse\config\SpringConfig.class

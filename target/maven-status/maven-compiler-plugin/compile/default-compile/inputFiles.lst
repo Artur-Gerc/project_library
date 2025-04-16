@@ -1,0 +1,14 @@
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\config\MySpringMvcDispatcherSerlvetIntitializer.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\config\SpringConfig.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\controllers\BookController.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\controllers\MainController.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\controllers\PeopleController.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\dao\BookDAO.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\dao\PersonDAO.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\models\Book.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\models\Person.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\repositories\BooksRepository.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\repositories\PeopleRepository.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\services\BooksService.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\services\PeopleService.java
+C:\Users\AR\IdeaProjects\project_library_hiber_jpa\src\main\java\ru\alishev\springcourse\util\PersonValidator.java
